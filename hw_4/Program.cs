@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int number = 2563;
+int i=1;
+int n;
+while (i < number)
+{
+    n = number % (10*i)/i;
+    i=i*10;
+
+    Console.Write(" " + n);
+   
+}
+
