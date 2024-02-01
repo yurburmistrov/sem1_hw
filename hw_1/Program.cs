@@ -1,4 +1,4 @@
-﻿int number = 322;
+﻿int number = 161;
 
 if (number % 7 == 0 && number % 23 == 0)
 {
