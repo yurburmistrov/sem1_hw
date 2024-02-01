@@ -1,0 +1,15 @@
+C:\GeekBrains\sem1_hw\hw_2\bin\Debug\net8.0\hw_2.exe
+C:\GeekBrains\sem1_hw\hw_2\bin\Debug\net8.0\hw_2.deps.json
+C:\GeekBrains\sem1_hw\hw_2\bin\Debug\net8.0\hw_2.runtimeconfig.json
+C:\GeekBrains\sem1_hw\hw_2\bin\Debug\net8.0\hw_2.dll
+C:\GeekBrains\sem1_hw\hw_2\bin\Debug\net8.0\hw_2.pdb
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.AssemblyInfoInputs.cache
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.AssemblyInfo.cs
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.sourcelink.json
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.dll
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\refint\hw_2.dll
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.pdb
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\hw_2.genruntimeconfig.cache
+C:\GeekBrains\sem1_hw\hw_2\obj\Debug\net8.0\ref\hw_2.dll
